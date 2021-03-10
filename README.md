@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how to use Github together.
+Adding a line for rebasing example.
 
 ## Introducion
 
